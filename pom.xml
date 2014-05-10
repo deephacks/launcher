@@ -5,7 +5,7 @@
   <artifactId>launcher</artifactId>
   <name>launcher</name>
   <packaging>jar</packaging>
-  <version>0.1.0</version>
+  <version>0.1.1-SNAPSHOT</version>
   <description>Simple launcher bootstrap for Java applications</description>
   <url>http://launcher.deephacks.org</url>
   <inceptionYear>2014</inceptionYear>
